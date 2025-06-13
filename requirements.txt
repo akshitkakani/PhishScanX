@@ -1,0 +1,7 @@
+# requirements.txt
+streamlit
+pandas
+requests
+tldextract
+beautifulsoup4
+python-dotenv
