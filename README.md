@@ -8,14 +8,14 @@ PhishScanX is a **Streamlit-based** tool designed to analyze suspicious `.eml` e
 
 ## 📌 Table of Contents
 
-1. [Project Goals](#project-goals)
-2. [How Phishing Works](#how-phishing-works)
-3. [How Analysts Investigate](#how-analysts-investigate)
-4. [Features](#features)
-5. [Installation & Usage](#installation-usage)
-6. [Project Structure](#project-structure)
-7. [Implementation Details](#implementation-details)
-8. [Credits](#credits)
+1. [🎯 Project Goals](#---project-goals)
+2. [🧠 How Phishing Works](#---how-phishing-works)
+3. [🕵️‍♂️ How Analysts Investigate](#-------how-analysts-investigate)
+4. [⚙️ Features](#---features)
+5. [🛠️ Installation & Usage](#----installation---usage)
+6. [📁 Project Structure](#---project-structure)
+7. [🧩 Implementation Details](#---implementation-details)
+8. [🙏 Credits](#---credits)
 
 ---
 
@@ -85,7 +85,7 @@ Security analysts typically follow these steps when investigating a suspicious e
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/PhishScanX.git
+   git clone https://github.com/akshitkakani/PhishScanX.git
    cd PhishScanX
    ```
 
